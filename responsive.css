@@ -195,7 +195,8 @@
         margin-bottom: 0px;
     }
     .last-section-heading h1, .sub-footer h1{
-        font-size: 1.1rem;
+        font-size: 1.5rem;
+        width: 100vw;
     }
     .sub-footer-button {
         width: 85vw;
